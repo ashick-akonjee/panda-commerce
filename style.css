@@ -19,6 +19,10 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
 .cat1{
     background-color: orangered;
 }
@@ -27,4 +31,10 @@
 }
 .cat3{
     background-color: blue;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
 }
