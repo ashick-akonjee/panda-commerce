@@ -38,3 +38,24 @@
 .catagories img{
     width: 100px;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px lightblue;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: darkgray;
+}
+#subscribe .buy-now-button{
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+}
